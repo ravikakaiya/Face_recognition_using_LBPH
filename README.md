@@ -9,4 +9,7 @@ Generating a user interface where user can input new data, train the model with 
 
 <img src="BTP.png">
 
-#Results
+# Interface
+
+<img src="BTP.png">
+# Results
